@@ -1,2 +1,2 @@
 # ML-DL-study
-**Machine Learning / Deep Learning study for myself**
+**Machine Learning / Deep Learning study**
